@@ -1,0 +1,9 @@
+opencv-python
+python-dotenv
+matplotlib
+mplsoccer
+numpy
+roboflow
+torch
+tqdm
+ultralytics
